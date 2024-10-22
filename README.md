@@ -1,5 +1,7 @@
-PROJECT FINISHED
+# Eka-Kue-PWM_DC_Ctrl
 
-I don't expect to commit any major changes to this project, at most add documentation and do trlanslations if needed.
+This project involves the design of an H-bridge driver for DC motor control using PWM. It features:
 
-Project made for university course "Construction of electronic devices"
+    Full KiCad schematic and PCB files
+    3D board visualizations
+    Circuit schematics in PDF
